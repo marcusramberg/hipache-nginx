@@ -1,4 +1,4 @@
-from ubuntu:precise
+from base
 maintainer Marcus Ramberg <marcus@nordaaker.com>
 version 1.0
 run apt-get install -y -q  python-software-properties
